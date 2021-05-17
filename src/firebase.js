@@ -3,14 +3,13 @@ import 'firebase/auth';
 import 'firebase/database';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDqQNJiPGLz0DtUyWvIhJvdvv47WlYrYAo",
-    authDomain: "fakebook-march.firebaseapp.com",
-    databaseURL: "https://fakebook-march-default-rtdb.firebaseio.com",
-    projectId: "fakebook-march",
-    storageBucket: "fakebook-march.appspot.com",
-    messagingSenderId: "421387606624",
-    appId: "1:421387606624:web:750b7f28fde4cb82204105",
-    measurementId: "G-HGQ58YHR7K"
+    apiKey: "AIzaSyDw90W0wjTc2O6Gup0sHuyA6cKW-SwDLz0",
+    authDomain: "fakebook-march1.firebaseapp.com",
+    databaseURL: "https://fakebook-march1-default-rtdb.firebaseio.com",
+    projectId: "fakebook-march1",
+    storageBucket: "fakebook-march1.appspot.com",
+    messagingSenderId: "462326487390",
+    appId: "1:462326487390:web:14e765a609f1810bfb17cf"
 };
 
 firebase.initializeApp(firebaseConfig);
